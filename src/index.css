@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(180deg, #0f0f0f, #1a1a1a);
+  color: white;
+}
+
+h1 {
+  font-size: 48px;
+  letter-spacing: 2px;
+}
+
+p {
+  color: #aaa;
+}
