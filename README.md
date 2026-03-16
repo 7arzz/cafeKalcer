@@ -1,16 +1,38 @@
-# React + Vite
+# ☕ Cafe Kalcer — Customer Guide
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Selamat datang di **Cafe Kalcer**! Kami hadir untuk memberikan pengalaman nongkrong dan ngoding terbaik bagi Anda di Surabaya (contoh). Gunakan panduan ini untuk memesan kopi favorit Anda melalui aplikasi web kami.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Cara Memesan (Tutorial)
 
-## React Compiler
+Kami menggunakan sistem pemesanan yang terintegrasi langsung dengan **WhatsApp** untuk memastikan pesanan Anda cepat diproses.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1.  **Pilih Menu**: Telusuri menu "Signature" kami. Anda bisa melihat foto asli, deskripsi, dan harga dari setiap produk.
+2.  **Tambah ke Keranjang**: Klik tombol **Add +** pada menu yang Anda inginkan.
+3.  **Buka Keranjang**: Klik ikon keranjang (🛒) di pojok kanan bawah untuk melihat daftar pesanan Anda.
+4.  **Isi Data**: Masukkan **Nama Anda** dan **Nomor Meja** (jika makan di tempat) atau **Alamat Lengkap** (jika pesan antar).
+5.  **Kirim Pesanan**: Klik tombol hijau **Order via WhatsApp**. Anda akan diarahkan ke WhatsApp kami dengan pesan yang sudah otomatis terisi. Cukup tekan **Kirim/Send**.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💰 Pembayaran
+
+Kami mendukung berbagai metode pembayaran untuk kenyamanan Anda:
+- **Cash** (di kasir)
+- **Transfer Bank** (BCA/Mandiri)
+- **E-Wallet** (GoPay, OVO, Dana, QRIS)
+
+> [!NOTE]
+> Konfirmasi pembayaran akan dilakukan langsung via chat WhatsApp setelah Anda mengirimkan daftar pesanan.
+
+---
+
+## 📍 Navigasi
+
+- **Visit Us**: Klik tombol "Visit Us" di bagian atas untuk melihat lokasi kami.
+- **Micro-interactions**: Arahkan kursor (hover) pada menu untuk melihat detail lebih jelas.
+
+---
+
+*Terima kasih telah memilih Cafe Kalcer. Selamat menikmati kopi Anda!* ☕✨
